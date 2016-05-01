@@ -1,0 +1,14 @@
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\bin\Debug\appp.exe.config
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\bin\Debug\appp.exe
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\bin\Debug\appp.pdb
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\bin\Debug\Interop.AXVLC.dll
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\appp.csprojResolveAssemblyReference.cache
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\Interop.AXVLC.dll
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\appp.csproj.ResolveComReference.cache
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\appp.Form1.resources
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\appp.Properties.Resources.resources
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\appp.csproj.GenerateResource.Cache
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\appp.exe
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\appp.pdb
