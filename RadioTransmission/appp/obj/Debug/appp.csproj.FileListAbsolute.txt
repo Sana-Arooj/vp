@@ -1,0 +1,53 @@
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\bin\Debug\appp.exe.config
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\bin\Debug\appp.exe
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\bin\Debug\appp.pdb
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\bin\Debug\NAudio.dll
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\bin\Debug\NAudio.xml
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\bin\Debug\Interop.AXVLC.dll
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\Interop.AXVLC.dll
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\appp.csproj.ResolveComReference.cache
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\appp.Form1.resources
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\appp.Properties.Resources.resources
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\appp.csproj.GenerateResource.Cache
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\appp.exe
+C:\Users\robpery\Documents\Visual Studio 2013\Projects\appp\appp\obj\Debug\appp.pdb
+C:\Users\robpery\Desktop\appp\appp\bin\Debug\appp.exe.config
+C:\Users\robpery\Desktop\appp\appp\bin\Debug\appp.exe
+C:\Users\robpery\Desktop\appp\appp\bin\Debug\appp.pdb
+C:\Users\robpery\Desktop\appp\appp\bin\Debug\NAudio.dll
+C:\Users\robpery\Desktop\appp\appp\bin\Debug\NAudio.xml
+C:\Users\robpery\Desktop\appp\appp\bin\Debug\Interop.AXVLC.dll
+C:\Users\robpery\Desktop\appp\appp\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\robpery\Desktop\appp\appp\obj\Debug\Interop.AXVLC.dll
+C:\Users\robpery\Desktop\appp\appp\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\robpery\Desktop\appp\appp\obj\Debug\appp.csproj.ResolveComReference.cache
+C:\Users\robpery\Desktop\appp\appp\obj\Debug\appp.Form1.resources
+C:\Users\robpery\Desktop\appp\appp\obj\Debug\appp.Properties.Resources.resources
+C:\Users\robpery\Desktop\appp\appp\obj\Debug\appp.csproj.GenerateResource.Cache
+C:\Users\robpery\Desktop\appp\appp\obj\Debug\appp.exe
+C:\Users\robpery\Desktop\appp\appp\obj\Debug\appp.pdb
+C:\Users\robpery\appp\appp\bin\Debug\appp.exe.config
+C:\Users\robpery\appp\appp\bin\Debug\appp.exe
+C:\Users\robpery\appp\appp\bin\Debug\appp.pdb
+C:\Users\robpery\appp\appp\bin\Debug\EntityFramework.dll
+C:\Users\robpery\appp\appp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\robpery\appp\appp\bin\Debug\MySql.Data.dll
+C:\Users\robpery\appp\appp\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\robpery\appp\appp\bin\Debug\MySql.Web.dll
+C:\Users\robpery\appp\appp\bin\Debug\NAudio.dll
+C:\Users\robpery\appp\appp\bin\Debug\EntityFramework.xml
+C:\Users\robpery\appp\appp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\robpery\appp\appp\bin\Debug\NAudio.xml
+C:\Users\robpery\appp\appp\bin\Debug\Interop.AXVLC.dll
+C:\Users\robpery\appp\appp\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\robpery\appp\appp\obj\Debug\Interop.AXVLC.dll
+C:\Users\robpery\appp\appp\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\robpery\appp\appp\obj\Debug\appp.csproj.ResolveComReference.cache
+C:\Users\robpery\appp\appp\obj\Debug\appp.Form1.resources
+C:\Users\robpery\appp\appp\obj\Debug\appp.Properties.Resources.resources
+C:\Users\robpery\appp\appp\obj\Debug\appp.csproj.GenerateResource.Cache
+C:\Users\robpery\appp\appp\obj\Debug\appp.exe
+C:\Users\robpery\appp\appp\obj\Debug\appp.pdb
+C:\Users\robpery\appp\appp\obj\Debug\appp.csprojResolveAssemblyReference.cache
